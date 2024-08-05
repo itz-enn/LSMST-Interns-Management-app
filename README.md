@@ -15,7 +15,7 @@ Reporting and analytics
 [Add any other key features of your app]
 
 Technologies Used
-[List the main technologies, frameworks, and languages used in your project]
+Javascript
 Team
 This project is a collaborative effort by student interns at the Lagos State Ministry of Science and Technology Programming Group.
 Project Status
